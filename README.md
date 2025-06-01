@@ -11,8 +11,8 @@ Yuhang Wu
 
 ### Repository Analysis
 
-[![Yuhang Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wuyuhang11&theme=vue-dark&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/VovyH)
+[![Yuhang Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VovyH&theme=vue-dark&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/VovyH)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wuyuhang11&theme=vue-dark&layout=compact&hide=html,css,scss)](https://github.com/VovyH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VovyH&theme=vue-dark&layout=compact&hide=html,css,scss)](https://github.com/VovyH)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wuyuhang11&theme=juicyfresh&rank=-?)](https://github.com/VovyH)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VovyH&theme=juicyfresh&rank=-?)](https://github.com/VovyH)
