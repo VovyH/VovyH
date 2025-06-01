@@ -9,7 +9,7 @@
 
 ### Repository Analysis
 
-[![Yuhang Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VovyH&theme=vue-dark&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/VovyH)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VovyH&theme=vue-dark&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/VovyH)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VovyH&theme=vue-dark&layout=compact&hide=html,css,scss)](https://github.com/VovyH)
 
