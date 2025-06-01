@@ -1,6 +1,4 @@
-====================================
-
-Yuhang Wu
+\(@^0^@)/ Hello! I am VovyH
 --------------------
 
 * 📧  You can contact me via [vovyh0514@gmail.com](vovyh0514@gmail.com)
