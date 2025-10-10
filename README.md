@@ -10,7 +10,7 @@
 ### Repository Analysis
 
 <div>
-  <a href="https://github.com/VovyH"><img align="middle" width="403" src="https://github-readme-stats.vercel.app/api?username=VovyH&theme=transparent&hide=contribs,prs&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=437&line_height=30&show_icons=true&include_all_commits=true" alt="GitHub Stats" /></a>
+  <a href="https://github.com/VovyH"><img align="middle" width="403" src="https://github-readme-stats.vercel.app/api?username=VovyH&theme=transparent&hide=contribs,prs&custom_title=VovyH's%20GitHub%20Stats&card_width=437&line_height=30&show_icons=true&include_all_commits=true" alt="GitHub Stats" /></a>
   <a href="https://github.com/VovyH"><img align="middle" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VovyH&theme=transparent&hide=html,css,scss&layout=compact&size_weight=0.9&count_weight=0.1" alt="Top Langs" /></a>
 </div>
 
