@@ -9,12 +9,6 @@
 
 ### Repository Analysis
 
-<div>
-  <a href="https://github.com/VovyH"><img align="middle" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VovyH&theme=transparent&hide=html,css,scss&layout=compact&size_weight=0.9&count_weight=0.1" alt="Top Langs" /></a>
-</div>
-
-****
-
 <a href="https://github.com/VovyH"><img src="https://trophygh.kolioaris.xyz/?username=VovyH&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5" alt="Trophy" /></a>
 
 
