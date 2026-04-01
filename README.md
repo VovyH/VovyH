@@ -10,7 +10,6 @@
 ### Repository Analysis
 
 <div>
-  <a href="https://github.com/VovyH"><img align="middle" width="403" src="https://github-readme-stats.vercel.app/api?username=VovyH&theme=transparent&hide=contribs,prs&card_width=437&line_height=30&show_icons=true&include_all_commits=true" alt="GitHub Stats" /></a>
   <a href="https://github.com/VovyH"><img align="middle" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VovyH&theme=transparent&hide=html,css,scss&layout=compact&size_weight=0.9&count_weight=0.1" alt="Top Langs" /></a>
 </div>
 
@@ -18,9 +17,4 @@
 
 <a href="https://github.com/VovyH"><img src="https://trophygh.kolioaris.xyz/?username=VovyH&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5" alt="Trophy" /></a>
 
-
-### Top Repositories
-
-<a href="https://github.com/VovyH/MultiAgent-Search"><img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=VovyH&theme=transparent&repo=MultiAgent-Search" alt="MultiAgent-Search" /></a>
-<a href="https://github.com/VovyH/FreeKnowledge_AI"><img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=VovyH&theme=transparent&repo=FreeKnowledge_AI" alt="FreeKnowledge_AI" /></a>
 
