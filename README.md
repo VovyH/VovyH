@@ -6,6 +6,7 @@
 * 🧠  I am currently exploring the security direction of LLM and its interpretability
 * ⚡  Top ten projects and outstanding projects of Shanghai Artificial Intelligence Laboratory Shusheng Training Camp
 * 🤝  Open to collaboration on projects of interest
+* 📧  Papers：EMNLP、ACL、IAENG
 
 ### Repository Analysis
 
