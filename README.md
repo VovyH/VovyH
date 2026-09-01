@@ -6,6 +6,7 @@
 * 🎶  I’m currently working on model pruning and distillation for acceleration. Previously, I was involved in pre-training and post-training
 * ⚡  Top ten projects and outstanding projects of Shanghai Artificial Intelligence Laboratory Shusheng Training Camp
 * 🤝  Open to collaboration on projects of interest
+* 🔍  Actively seeking 2027‑batch LLM algorithm internship offers with three prior large‑model‑related internships.
 * 📧  Papers：EMNLP、ACL、IAENG
 
 
